@@ -101,7 +101,7 @@ getPhoto();
 
         <!-- Default box -->
         <div class="col-sm-6">
-            <p>Visita nuestros últimos videos</p>
+            <p>Tus videos subidos</p>
         </div>
 
         <div class="container-fluid">
